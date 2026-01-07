@@ -20,7 +20,8 @@ I am a **software engineer** specializing in **AI** and **backend development**.
 ## 🎯 Current Focus  
 
 - 📌 Advancing knowledge in **Artificial Intelligence** and **Machine Learning**  
-- 📌 Improving **problem-solving skills** through algorithmic challenges and competitive programming  
+- 📌 Improving **problem-solving skills** through algorithmic challenges and competitive programming
+- 📌 Learning **German**
 
 ---
 
